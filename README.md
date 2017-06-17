@@ -1,0 +1,1 @@
+This is the public web site for [viridicode.com](http://viridicode.com).
